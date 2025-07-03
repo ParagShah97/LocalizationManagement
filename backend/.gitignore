@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# PyCharm settings
+.idea/
+
+# Pylint
+.pylint.d/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / integration test results
+junit*.xml
+
+# Logs and runtime files
+*.log
+*.pid
+*.sqlite3
+
+# Database files
+*.db
+
+# Static and media
+staticfiles/
+media/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
